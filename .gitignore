@@ -1,0 +1,12 @@
+# Ignore build, install, and log directories
+build/
+install/
+log/
+
+# Ignore .vscode and Python cache files
+.vscode
+__pycache__/
+
+# Ignore video files in the video directory if they are large
+video/*.mp4
+video/*.avi
