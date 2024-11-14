@@ -70,7 +70,7 @@ This project involves path planning for the iRobot Create-3 robot in a simulated
     This command will only be accepted when the docking station is visible for the robot. Therefore the robot has to oriented correctly to face the docking station using the previous node to enable docking.
 
 ## Results
-A video recording of the Create-3 robot undocking, following a creative path to the target, and docking back at the station. 
+A video recording of the Create-3 robot undocking, following a creative path to the target, and docking back at the station. To watch the video, click on the following link and then on 'download raw file' in the top right corner. (The video is 6.1 MB, which is too big to display directly.)
 
 [Watch the video](video/iRobotCreate3_UndockMoveDock.mp4)
 
