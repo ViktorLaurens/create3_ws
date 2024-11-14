@@ -59,7 +59,7 @@ This project involves path planning for the iRobot Create-3 robot in a simulated
     ```
     However to automate the robot to go towards a chosen target position and using something else than a straight line or circular arch to reach this target position, a node was developed in the create3_control       package. Running the node can be achieved with the command:
     ```bash
-    ros2 launch create3_control move_robot.launch.py
+    ros2 launch create3_control move_to_goal.launch.py
     ```
     The purpose of this package is to move the robot according to a certain trajectory to the target position, calculate the commands to publish to the /cmd_vel topic as Twist messages to achieve this. Afterwards     the robot moves back to its start position in order to dock. However debugging of this node and finishing its development was not possible due to hardware difficulties which did not allow the simulation to        run properly.
    
