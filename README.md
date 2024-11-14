@@ -72,7 +72,7 @@ This project involves path planning for the iRobot Create-3 robot in a simulated
 ## Results
 A video recording of the Create-3 robot undocking, following a creative path to the target, and docking back at the station. 
 
-<video src="video/demo.mp4" controls="controls" style="max-width: 100%;">
+<video src="video/iRobotCreate3_UndockMoveDock.mp4" controls="controls" style="max-width: 100%;">
    Your browser does not support the video tag.
 </video>
 
